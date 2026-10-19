@@ -1,0 +1,2 @@
+plant_id,timestamp_start,timestamp_end,event_type,curtailed_capacity_mw,iso_directive_code,compensation_eligible,impact_description,source_file,source_row_index
+helios-50,2026-10-13T13:00:00,2026-10-13T15:00:00,grid_curtailment,15.0,CAISO-DIR-9921,YES,Regional transmission congestion constraint in Southern California corridor,external_events.csv,1

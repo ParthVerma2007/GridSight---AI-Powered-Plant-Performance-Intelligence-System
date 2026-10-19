@@ -1,0 +1,22 @@
+plant_id,date,shift,technicians_on_site,hours_logged,lead_technician,technician_roster,skill_certifications,notes,source_file,source_row_index
+helios-50,2026-10-10,morning,3,8.0,Carlos Mendez,"C. Mendez, J. Doe, A. Patel","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,1
+helios-50,2026-10-10,afternoon,2,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,2
+helios-50,2026-10-10,night,1,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,3
+helios-50,2026-10-11,morning,3,8.0,Carlos Mendez,"C. Mendez, J. Doe, A. Patel","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,4
+helios-50,2026-10-11,afternoon,2,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,5
+helios-50,2026-10-11,night,1,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,6
+helios-50,2026-10-12,morning,3,8.0,Carlos Mendez,"C. Mendez, J. Doe, A. Patel","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,7
+helios-50,2026-10-12,afternoon,2,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,8
+helios-50,2026-10-12,night,1,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,9
+helios-50,2026-10-13,morning,3,8.0,Carlos Mendez,"C. Mendez, J. Doe, A. Patel","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,10
+helios-50,2026-10-13,afternoon,2,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,11
+helios-50,2026-10-13,night,1,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,12
+helios-50,2026-10-14,morning,3,8.0,Carlos Mendez,"C. Mendez, J. Doe, A. Patel","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,13
+helios-50,2026-10-14,afternoon,2,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,14
+helios-50,2026-10-14,night,1,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,15
+helios-50,2026-10-15,morning,3,8.0,Carlos Mendez,"C. Mendez, J. Doe, A. Patel","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,16
+helios-50,2026-10-15,afternoon,2,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,17
+helios-50,2026-10-15,night,1,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,18
+helios-50,2026-10-16,morning,3,8.0,Carlos Mendez,"C. Mendez, J. Doe, A. Patel","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,19
+helios-50,2026-10-16,afternoon,2,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,20
+helios-50,2026-10-16,night,1,8.0,Sarah Jenkins,"S. Jenkins, R. Vance","HV_Certified, Inverter_Specialist, OSHA_10",Routine inspection and thermal checks completed,workforce_shifts.csv,21

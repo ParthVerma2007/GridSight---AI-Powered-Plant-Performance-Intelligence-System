@@ -1,0 +1,6 @@
+timestamp,plant_id,actual_mw,actual_mwh,asset_id
+INVALID_DATE_FORMAT,helios-50,25.0,25.0,INV-01
+2026-10-10T10:00:00,helios-50,-99.0,-99.0,INV-02
+2026-10-10T11:00:00,helios-50,CORRUPTED_TEXT,,INV-03
+2026-10-10T12:00:00,helios-50,4.5,4.5,NON_EXISTENT_ASSET_999
+,helios-50,12.0,12.0,INV-05
